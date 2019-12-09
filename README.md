@@ -1,2 +1,2 @@
 # Information_Hiding
-TheInformation_Hiding
+The code for the Information_Hiding
